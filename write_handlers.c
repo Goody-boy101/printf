@@ -1,5 +1,5 @@
 #include "main.h"
-
+/*i collaborated  with my partner*/
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a string
