@@ -1,7 +1,7 @@
 #include <limits.h>
 #include <stdio.h>
 #include "main.h"
-
+/*i collaborated  with my partner*/
 /**
  * main - Entry point
  *
